@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jose Kaypa, a full-time full-stack developer 👨‍💻 from Colombia🚀</div>  
   
 
-- 🌱 I’m currently learning TypeScript and Next.js  
+- 🌱 I’m currently learning TypeScript, Nest.js and Next.js  
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
