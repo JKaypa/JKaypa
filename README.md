@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jose Kaypa, a full-time full-stack developer 👨‍💻 from Colombia🚀</div>  
   
 
-- 🌱 I’m currently learning TypeScript.  
+- 🌱 I’m currently learning Python, Django and Django RestFramework.  
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
