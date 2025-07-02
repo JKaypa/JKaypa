@@ -61,7 +61,7 @@ I believe in clean architecture, meaningful collaboration, and continuous learni
 - 🌐 Real-time apps with WebSockets
 - 🧠 AI integrations
 - ☁️ Cloud platforms (AWS, GCP) & DevOps tools
-- 📘 Learning every day — because tech never stops
+- 📘 Learning every day
 
 ---
 
