@@ -1,83 +1,73 @@
-<h1 align="center">Hi there! I'm Jose Kaypa 👨‍💻</h1>
-<p align="center">Full-Stack Developer • Tech Explorer • Software Engineer</p>
+<h1 align="center">Hey there! I'm Jose Kaypa 👋</h1>
+<p align="center">Backend-Focused Fullstack Developer • Cloud Enthusiast • Software Engineer</p>
 
 ---
 
-### 🚀 About Me
-I'm a passionate Software Engineer who loves building real-world products, learning new technologies, and creating seamless experiences across frontend and backend. Whether it's crafting interactive UIs or integrating AI into APIs — I thrive where code meets creativity.
+### 🧑‍💻 About Me
+
+I'm a **fullstack developer** with a strong backend focus. I love designing efficient systems, working with APIs, and bringing ideas to life with robust, scalable code.  
+I believe in clean architecture, meaningful collaboration, and continuous learning.
 
 ---
 
-### 🛠️ Tech Toolbox
+### 🧰 Tech Stack
 
-#### ⚛️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+#### 🧠 Backend-Focused Core
 
-#### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![Objection.js](https://img.shields.io/badge/Objection.js-3178C6?style=flat&logo=javascript&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat&logo=typescript&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
+[![Objection.js](https://img.shields.io/badge/Objection.js-3178C6?style=for-the-badge&logo=javascript&logoColor=white)](https://vincit.github.io/objection.js/)
+
+#### 🧑‍🎨 Frontend
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
 
-#### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+#### ☁️ Cloud, DevOps & Tools
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 #### ✅ Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-8A4182?style=flat&logo=java&logoColor=white)
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)](https://junit.org/)
+[![Mockito](https://img.shields.io/badge/Mockito-8A4182?style=for-the-badge&logo=java&logoColor=white)](https://site.mockito.org/)
+
+
+### 💡 Interests
+
+- 🔌 Backend architecture & API design
+- 📦 Clean code & DDD
+- 🌐 Real-time apps with WebSockets
+- 🧠 AI integrations
+- ☁️ Cloud platforms (AWS, GCP) & DevOps tools
+- 📘 Learning every day — because tech never stops
 
 ---
 
-### 🌍 Interests
+### 🌐 Let’s Connect
 
-- 💡 Building real-time apps with WebSockets
-- 🧠 Integrating AI (OpenAI, Azure AI)
-- 🎮 Gamified learning & creative side projects
-- 🧪 Clean code, refactoring & testing culture
-- 🚀 Cloud computing & DevOps exploration
-- 📚 Always learning something new
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkaypa/)
+[![Email](https://img.shields.io/badge/Email-jose_kaypa@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose_kaypa@hotmail.com)
 
 ---
-
-### 🧩 Featured Projects
-
-- 🎯 [**Typing Race**](https://typing-race-bj19.onrender.com):  
-  Real-time multiplayer typing game  
-  *Stack: TypeScript, Express, Socket.IO*
-
-- 🧳 [**Travel App**](https://react-travel-app-advanced.netlify.app):  
-  A dynamic booking platform with filters and price calculator  
-  *Stack: React, Redux Toolkit, TypeScript*
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkaypa/)
-[![Email](https://img.shields.io/badge/Email-jose_kaypa@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jose_kaypa@hotmail.com)
-
----
-
-> “I don't just write code — I craft solutions.”
-
-
